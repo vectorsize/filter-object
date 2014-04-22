@@ -1,0 +1,12 @@
+{
+  "name": "filter-object",
+  "exports": "filter",
+  "version": "0.1.0",
+  "description": "Returns a filtered version of an object based on the approved passed in properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Saiz",
+  "license": "BSD-3"
+}
